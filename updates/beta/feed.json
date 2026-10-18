@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "signatures": [
+    {
+      "keyid": "f1158704902fd87042ef57d3344ada521ba04d34b22735f0a68c1f9da6e06f19",
+      "sig": "KHvqNJB3V7umXkkk6LRxHWCPpi3SRs5AFKZ0D1CrnEoWKdnr0vMhGU4re87kmzZV4hMUdrLFoe1a9ekaOJ8OAg=="
+    }
+  ],
+  "signed": "eyJhcHBfaWQiOiJmZW5namktbWF0cml4IiwiYmxvY2tlZF9idWlsZHMiOltdLCJjaGFubmVsIjoiYmV0YSIsImV4cGlyZXNfYXQiOjE3OTI1NTQ3MjIsImZvcm1hdCI6MSwiaXNzdWVkX2F0IjoxNzkyMjk1NTIyLCJtZXRhX3NlcXVlbmNlIjoxLCJwbGF0Zm9ybSI6IndpbmRvd3MteDY0IiwicmVsZWFzZSI6bnVsbCwicm9sbG91dCI6MTAwfQ=="
+}
